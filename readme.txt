@@ -5,3 +5,5 @@ Git is very NB
 
 create a new branch is quick AND simple.
 
+--no-ff
+
